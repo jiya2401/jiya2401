@@ -14,5 +14,3 @@ I am currently exploring and learning GitHub to enhance my skills while sharing 
   <img src="https://img.shields.io/badge/React-Pending-808080?style=for-the-badge&logo=react&logoColor=white" alt="React Pending"/>
 </p>
 
-> ✅ MongoDB, Express.js, and Node.js learned  
-> 🚧 **React** learning in progress!
