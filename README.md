@@ -13,7 +13,7 @@ I am currently exploring and learning GitHub to enhance my skills while sharing 
   <img src="https://img.shields.io/badge/React-Learning-808080?style=for-the-badge&logo=react&logoColor=white" alt="React Learning"/>
 </p>
 
-### 🛠️ Current Toolkit
+## 🛠️ Current Toolkit
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
