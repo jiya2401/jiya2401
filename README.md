@@ -1,11 +1,11 @@
-#  👋 Welcome to My GitHub Profile! 
+##  👋 Welcome to My GitHub Profile! 
 
 Hey there! I'm **Jiya Singh** — thanks a ton for stopping by my little corner of GitHub. 🚀 
 
 ## 🌱 About Me
 I am currently exploring and learning GitHub to enhance my skills while sharing my coding projects. 
 
-## 🌐 Web Development (MERN Stack)
+### 🌐 Web Development (MERN Stack)
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
