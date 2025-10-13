@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/React-Learning-808080?style=for-the-badge&logo=react&logoColor=white" alt="React Learning"/>
 </p> 
 
----
+-
 
 ## 🛠️ Current Toolkit
 <div align="center">
@@ -27,6 +27,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </div>
  
----
+-
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
