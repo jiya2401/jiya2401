@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Web+Developer+%7C+MERN+Stack;Started+my+journey+in+Machine+Learning;" alt="Typing SVG" />
 </p>
 
-### 🚀About Me
+
 - 🏫 Currently learning and exploring GitHub to enhance my skills.
 - 🚀 Sharing my coding projects and progress.
 
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </div>
- 
 
+ ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
