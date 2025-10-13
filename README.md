@@ -1,9 +1,12 @@
-##  👋 Welcome to My GitHub Profile! 
+<h1 align="center">Hi 👋, I'm Jiya Singh</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Web+Developer+%7C+MERN+Stack;ML+Enthusiast;" alt="Typing SVG" />
+</p>
 
-Hey there! I'm **Jiya Singh** — thanks a ton for stopping by my little corner of GitHub. 🚀 
+## 🚀About Me
+- 🏫 Currently learning and exploring GitHub to enhance my skills.
+- 🚀 Sharing my coding projects and progress.
 
-## 🌱 About Me
-I am currently exploring and learning GitHub to enhance my skills while sharing my coding projects. 
 
 ### 🌐 Web Development (MERN Stack)
 <p align="center">
@@ -15,9 +18,13 @@ I am currently exploring and learning GitHub to enhance my skills while sharing 
 
 ## 🛠️ Current Toolkit
 <div align="center">
+   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </div>
+ 
+---
 
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
