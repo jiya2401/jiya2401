@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jiya Singh</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Web+Developer+%7C+MERN+Stack;ML+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Web+Developer+%7C+MERN+Stack;Started+my+journey+in+Machine+Learning;" alt="Typing SVG" />
 </p>
 
 ## 🚀About Me
