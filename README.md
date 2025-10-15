@@ -4,8 +4,8 @@
 </p>
 
 
-- 🏫 Currently learning and exploring GitHub to enhance my skills.
-- 🚀 Sharing my coding projects and progress.
+-  Currently learning and exploring GitHub to enhance my skills.
+-  Sharing my coding projects and progress.
 
 
 ### 🌐 Web Development (MERN Stack)
