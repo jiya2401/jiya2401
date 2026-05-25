@@ -4,7 +4,9 @@
 </p>
 
 
-- I'm Currently learning ML.
+- 🚀 I'm Currently learning ML.
+- 🤝 GSSoC'26 Contributor 
+- 💡 life_motto = "while not success: drink_coffee(); try_again() ☕"
 
 
 ## Languages and  Toolkit
