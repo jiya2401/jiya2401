@@ -6,7 +6,7 @@
 
 - 🚀 I'm Currently learning ML.
 - 🤝 GSSoC'26 Contributor 
-- 💡 life_motto = "while not success: drink_coffee(); try_again() ☕"
+- 💡 life_motto = "while not success: drink_tea(); try_again() ☕"
 
 
 ## Languages and  Toolkit
