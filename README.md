@@ -4,11 +4,11 @@
 </p>
 
 
-🌱 Currently leveling up in: probabilistic models, deep learning, and Explainable AI - learning to interrogate a model's answer before I trust it.
-🤖 Building: autonomous AI agents - connecting LLMs, retrieval pipelines, and async workflows into systems that actually reason
-💻 Full-stack? Yep - comfortable with the MERN stack, so I can ship the product around the model, not just the model itself
-🎯 GSSoC'26 Contributor - figuring out open source workflows
-💬 Ask me about: AI safety, Explainable AI, MERN stack, or my tea-to-debugging ratio ☕
+- 🌱 Currently leveling up in: probabilistic models, deep learning, and Explainable AI - learning to interrogate a model's answer before I trust it.
+- 🤖 Building: autonomous AI agents - connecting LLMs, retrieval pipelines, and async workflows into systems that actually reason
+- 💻 Full-stack? Yep - comfortable with the MERN stack, so I can ship the product around the model, not just the model itself
+- 🎯 GSSoC'26 Contributor - figuring out open source workflows
+- 💬 Ask me about: AI safety, Explainable AI, MERN stack, or my tea-to-debugging ratio ☕
 
 
 ## Languages and  Toolkit
