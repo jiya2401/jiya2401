@@ -33,13 +33,13 @@
 
 <p align="center">
   <a href="https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0">
-    <img src="assets/badges/gssoc-badge-gssoc_champion.png" width="140" alt="GSSoC Champion - Legendary"/>
+    <img src="gssoc-badge-gssoc_champion.png" width="140" alt="GSSoC Champion - Legendary"/>
   </a>
   <a href="https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0">
-    <img src="assets/badges/gssoc-badge-elite.png" width="140" alt="GSSoC Elite"/>
+    <img src="gssoc-badge-elite.png" width="140" alt="GSSoC Elite"/>
   </a>
   <a href="https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0">
-    <img src="assets/badges/gssoc-badge-power_contributor__1_.png" width="140" alt="GSSoC Power Contributor"/>
+    <img src="gssoc-badge-power_contributor__1_.png" width="140" alt="GSSoC Power Contributor"/>
   </a>
 </p>
 
