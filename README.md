@@ -28,23 +28,6 @@
 </p> 
 
 
-# 🏆 <a href="https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0">GSSoC 2026 Achievements 🔗</a>
-
-<p align="center">
-  <a href="https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0">
-    <img src="gssoc-badge-gssoc_champion.png" width="160" alt="GSSoC Champion - Legendary"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0">
-    <img src="gssoc-badge-elite.png" width="160" alt="GSSoC Elite"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0">
-    <img src="gssoc-badge-power_contributor (1).png" width="160" alt="GSSoC Power Contributor"/>
-  </a>
-</p>
-
-
 # 🏆 [GSSoC 2026 Achievements 🔗](https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0)
 
 <table align="center">
