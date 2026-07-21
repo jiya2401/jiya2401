@@ -29,4 +29,24 @@
 
  ---
 
+ ## 🏆 GSSoC 2026 Achievements
+
+<p align="center">
+  <a href="https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0">
+    <img src="assets/badges/gssoc-badge-gssoc_champion.png" width="140" alt="GSSoC Champion - Legendary"/>
+  </a>
+  <a href="https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0">
+    <img src="assets/badges/gssoc-badge-elite.png" width="140" alt="GSSoC Elite"/>
+  </a>
+  <a href="https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0">
+    <img src="assets/badges/gssoc-badge-power_contributor__1_.png" width="140" alt="GSSoC Power Contributor"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0"><b>🔗 View full GSSoC profile</b></a>
+</p>
+
+---
+
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
