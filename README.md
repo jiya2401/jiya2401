@@ -41,7 +41,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0">
-    <img src="gssoc-badge-power_contributor__1_.png" width="160" alt="GSSoC Power Contributor"/>
+    <img src="gssoc-badge-power_contributor (1).png" width="160" alt="GSSoC Power Contributor"/>
   </a>
 </p>
 
