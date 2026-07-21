@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p> 
 
- ---
 
 # 🏆 <a href="https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0">GSSoC 2026 Achievements 🔗</a>
 
@@ -44,6 +43,7 @@
     <img src="gssoc-badge-power_contributor (1).png" width="160" alt="GSSoC Power Contributor"/>
   </a>
 </p>
+
 
 ---
 
