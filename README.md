@@ -6,7 +6,7 @@
 
 -  Currently leveling up in: probabilistic models, deep learning, and Explainable AI - learning to interrogate a model's answer before I trust it.
 -  Building: [watchR-ai](https://github.com/jiya2401/watchR.ai) - an autonomous AI agent connecting LLMs, retrieval pipelines, and async workflows into systems that actually reason
--  GSSoC'26 Contributor - figuring out open source workflows
+-  **[GSSoC 2026 Contributor](https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0)** - figuring out open source workflows
 -  Ask me about: AI Agent, Explainable AI, MERN stack, DSA-Java, or my tea-to-debugging ratio ☕
 
 
