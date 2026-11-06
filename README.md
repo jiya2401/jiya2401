@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jiya Singh</h1>
+<h1 align="center">Hi, I'm Jiya Singh</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Web+Dev+%7C+MERN+Stack;AI/ML+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI/ML+Developer" alt="Typing SVG" />
 </p>
 
-
--  Currently leveling up in: probabilistic models, deep learning, and Explainable AI - learning to interrogate a model's answer before I trust it.
 -  Building: [watchR-ai](https://github.com/jiya2401/watchR.ai) - an autonomous AI agent connecting LLMs, retrieval pipelines, and async workflows into systems that actually reason
--  **[GSSoC 2026 Contributor](https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0)** - figuring out open source workflows
--  Ask me about: AI Agent, Explainable AI, MERN stack, DSA-Java, or my tea-to-debugging ratio ☕ 
-
+-  **[GSSoC 2026 Contributor](https://gssoc.girlscript.org/profile/ca03dd92-4914-440b-9c1f-144613b9abb0)** - where I explored open source workflows
+-  Currently leveling up in Applied AI, AI Agents & ML Systems
 
 ## Languages and  Toolkit
 <p align="center">
